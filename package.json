@@ -1,4 +1,4 @@
-git{
+{
   "name": "defender-game",
   "version": "1.0.0",
   "description": "Browser based game",
